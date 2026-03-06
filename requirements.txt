@@ -1,0 +1,14 @@
+# Spaceship Titanic 项目依赖库
+# 安装方法: pip install -r requirements.txt
+
+# 核心数据处理库
+numpy>=1.21.0
+pandas>=1.3.0
+
+# 机器学习库
+scikit-learn>=1.0.0
+catboost>=1.0.0
+
+# 可视化库
+matplotlib>=3.4.0
+seaborn>=0.11.0
