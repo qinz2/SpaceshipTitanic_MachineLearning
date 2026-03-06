@@ -3,6 +3,9 @@
 Kaggle Spaceship Titanic 竞赛的完整机器学习解决方案。
 
 **模型性能**: F1-Score 0.8033 (±0.0098) | Accuracy 0.8059 (±0.0089)
+作者的提交
+<img width="866" height="760" alt="image" src="https://github.com/user-attachments/assets/2f4975c8-86f3-48e8-bd43-0e26666cfbb6" />
+
 
 ## 快速开始
 
